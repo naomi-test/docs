@@ -246,7 +246,7 @@ The first thing you want to consider is what tags you are trying to create and h
 
 ![The images tab of the data page with a number of images of the dog.](../../img/pet-treat-dispenser/app-data-images-filters.png)
 
-For the treat dispenser, you can tag images with the name of the pet and also tag images that do not include the pet. 
+For the treat dispenser, you can tag images with the name of the pet and also tag images that do not include the pet.
 Notice that in our image collection, we captured images at different angles and with different background compositions.
 This is to ensure that our model can continue to recognize the object no matter how your robot is viewing it through its camera.
 
