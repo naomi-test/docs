@@ -234,7 +234,7 @@ Now it’s time to start collecting images of your beloved pet.
 Set your feeder up near an area your pet likes to hang out like your couch or their bed or mount it temporarily over their food bowl, or even just hold it in front of them for a couple of minutes.
 You can check that data is being captured by heading over to the [**DATA** page](https://app.viam.com/data/view) and filtering your image data to show just images from the {{< glossary_tooltip term_id="location" text="location" >}} your pet feeder is in.
 Capture as many images as you want.
-If possible, capture your pet from different angles and with different backgrounds. 
+If possible, capture your pet from different angles and with different backgrounds.
 You also want to make sure you capture images without your pet so that you have a diverse dataset to train your model on.
 Disable Data Capture after you’re done capturing images of your pet.
 
