@@ -173,7 +173,7 @@ Restart your Pi using `sudo reboot` to make these changes take effect.
 ### Install the Python SDK
 
 Next, set up a virtual environment and install the SDK.
-(If you want to read more on virtual environments, check out [the documentation](https://docs.viam.com/build/program/python-venv/).) 
+(If you want to read more on virtual environments, check out [the documentation](https://docs.viam.com/build/program/python-venv/).)
 
 Make sure any packages on your Pi are up to date, while connected to your Pi with SSH run:
 
@@ -396,7 +396,6 @@ Save your <file>plant-watering-robot.py</file> program with this logic added in,
 ```shell
 sudo python3 plant-watering-robot.py
 ```
-
 
 Test your sensor by putting it in air, water, and different soils to see how the values change and determine your baseline for wet and dry values.
 Also, consider how often you would like to check the moisture levels of the plant, and how long the plant should be watered.
