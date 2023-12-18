@@ -187,6 +187,7 @@ Then run the following command to create and activate the virtual environment:
 ```sh {class="command-line" data-prompt="$"}
 python3 -m venv .venv
 source .venv/bin/activate
+```
 
 Make sure you have `pip` installed for Python 3:
 
